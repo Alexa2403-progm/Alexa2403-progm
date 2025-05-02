@@ -18,15 +18,18 @@
 - ⚙️ I'm from Madrid and currently improving my development skills.
 - 🌱 I'm learning TypeScript.
 - 👯 I’m looking to collaborate on different projects
-- 👨‍💻 All of my projects are available at [my website](https://rahulkarda.netlify.app)
-- 📝 I actively post on  ![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff) https://linkedin.com/in/alexmary-rangel-825300121
-- 👀 I'm available for work.
-- 📫 You can contact me at ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white) alexmaryrangel@gmail.com.
+- 👨‍💻 All of my projects are available at [my website](https://)
+- 📝 I actively post on
+	   <a href="https://linkedin.com/in/alexmary-rangel-825300121">
+	   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" >
+	   </a>
+- 👀 I'am currently open for a new job opportunity, this is [my resume](https://read.cv/)
+- 📫 You can contact me at: [alexmaryrangel@gmail.com](https://alexmaryrangel@gmail.com) 
 - ⚡ Fun fact  - I like to exercise, listen to music, and discover new technologies.
 <br>
 
   ## 🛠️ My Skills
--------------------
+
 ### Programming languages:
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
