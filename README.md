@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center"><b>Hi , I'm Alexmary Rangel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm AlexaDev </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=AlexaDev+👩‍💻;+Full-stack+web+developer.;I+build+real-world+projects+while+learning,;+and+applying+modern+technologies+like;+React,Tailwind,Node.js,+and+SQL,;Backend+and+Frontend..<3;+Developer+Full-stack.;Construyo+proyectos+reales+mientras+aprendo,;+y+aplico+tecnologías+modernas+como;+React,Tailwind,Node.js,+y+SQL,;Backend+y+Frontend..<3"></a>
@@ -23,7 +23,7 @@
 	   <a href="https://linkedin.com/in/alexmary-rangel-825300121">
 	   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" >
 	   </a>
-- 👀 I'am currently open for a new job opportunity, this is [my resume](https://read.cv/)
+- 👀 I'am currently open for a new job opportunity, this is [my CV](https://read.cv/)
 - 📫 You can contact me at: [alexmaryrangel@gmail.com](https://alexmaryrangel@gmail.com) 
 - ⚡ Fun fact  - I like to exercise, listen to music, and discover new technologies.
 <br>
@@ -56,6 +56,9 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-000?logo=GitLab)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?logo=Visual-Studio-Code)
 ![Postman](https://img.shields.io/badge/-Postman-000?logo=Postman)
+![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)
+
+
 
 ### Services & Frameworks: 
 &emsp;
@@ -63,11 +66,9 @@
 ![Astro](https://img.shields.io/badge/Astro-000?logo=astro&logoColor=indigo-500)
 
 
-
 ### Databases:
 &emsp;
 ![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql&logoColor=blue)
-
 
 
 <p align = "center">
