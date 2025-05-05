@@ -23,7 +23,7 @@
 	   <a href="https://linkedin.com/in/alexmary-rangel-825300121">
 	   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" >
 	   </a>
-- 👀 I'am currently open for a new job opportunity, this is [my CV](https://read.cv/)
+- 👀 I'am currently open for a new job opportunity, this is [my CV](CV_Developer.pdf)
 - 📫 You can contact me at: [alexmaryrangel@gmail.com](https://alexmaryrangel@gmail.com) 
 - ⚡ Fun fact  - I like to exercise, listen to music, and discover new technologies.
 <br>
