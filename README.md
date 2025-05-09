@@ -21,8 +21,7 @@
 - 👨‍💻 All of my projects are available at [my website](https://)
 - 📝 I actively post on
 	   <a href="https://linkedin.com/in/alexmary-rangel-825300121">
-	   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"
-		   target_blank>
+	   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">
 	   </a>
 - 👀 I'am currently open for a new job opportunity, this is [my CV](Web_Developer_CV.pdf)
 - 📫 You can contact me at: [alexmaryrangel@gmail.com](https://alexmaryrangel@gmail.com) 
