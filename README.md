@@ -18,7 +18,7 @@
 - ⚙️ I'm from Madrid and currently improving my development skills.
 - 🌱 I'm learning TypeScript.
 - 👯 I’m looking to collaborate on different projects
-- 👨‍💻 All of my projects are available at [my website](https://)
+- 👨‍💻 All of my projects are available at [my website](https://portfolio-alexmary-rangel.netlify.app/)
 - 📝 I actively post on
 	   <a href="https://linkedin.com/in/alexmary-rangel-825300121">
 	   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">
