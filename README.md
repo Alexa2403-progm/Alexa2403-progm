@@ -48,6 +48,7 @@
 &emsp;
 ![NodeJS](https://img.shields.io/badge/Node.js-000?logo=node.js&logoColor=green)
 ![Express.js](https://img.shields.io/badge/Express.js-000.svg?logo=express&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Misc Tools:
 &emsp;
@@ -63,6 +64,8 @@
 ### Services & Frameworks: 
 &emsp;
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-000?logo=tailwind-css&logoColor=blue)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-000?logo=astro&logoColor=indigo-500)
 
 
